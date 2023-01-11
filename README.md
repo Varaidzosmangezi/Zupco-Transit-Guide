@@ -1,2 +1,2 @@
 # Zupco-Transit-Guide
-a cross platform mobile application to deliver real time public transit guide to people living in my capital city Harare
+A cross platform mobile application to deliver real time public transit guide to people living in my capital city Harare. The app deliver bus real time location, distance from passenger, expected time of arrival and also allows passengers to indicate that they are waiting to help the service provider plan accordingly. This app was designed to mitigate transport uncertainties experience on mornings to work, and to help the service provider to plan and deploy buses according to needs to reduce the long queues that characterise mornings to work and school across the city.
